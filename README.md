@@ -23,8 +23,8 @@ Pinneapple on pizza?
 
 ### Hobbies
 
-*Travelling
-*Reading
+1. Travelling
+2. Reading
 
 
 Contribute in a good vibe while working together . I will try to make positive contribution and make everybody confortable.
