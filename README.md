@@ -1,7 +1,7 @@
 # Rachida Haddouch
 
 
-> Of all you see only love is infinite
+*Of all you see only love is infinite*
 
 ![ME](https://raw.githubusercontent.com/Sanamanel/markdown-challenge/master/profil.jpg)
 
@@ -23,9 +23,9 @@ Pinneapple on pizza?
 
 ### Hobbies
 
-* Travelling
-* Reading
-* Movies
+*Travelling
+*Reading
+
 
 Contribute in a good vibe while working together . I will try to make positive contribution and make everybody confortable.
 
