@@ -1,10 +1,11 @@
-# Rachida Haddouch
+# Rachida Haddouch
+
 
 > Of all you see only love is infinite
 
 ![ME](https://raw.githubusercontent.com/Sanamanel/markdown-challenge/master/profil.jpg)
 
-##### Me,in one sentence
+##### Me,in one sentence
 
 ## Tables
 
@@ -15,14 +16,14 @@
 | Favorite food?       | Chocolate      |
 | Pinneapple on pizza? | [ ] yes [ ] no |
 
-### Hobbies
+### Hobbies
 
 * Travelling
 * Reading
-\* Movies
+* Movies
 
 Contribute in a good vibe while working together .
 
 #### A funny story  !
 
-[<<Previous](http://)|| Rachida Haddouch||[Next >>](http://)
+[<<Previous](https://github.com/OlivierCharlier)|| Rachida Haddouch||[Next >>](https://www.youtube.com/channel/UCurAMv9HimsEpS-x4n-DIOw)
